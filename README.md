@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoamenMohameed
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html,css
+- 🌱 I’m currently learning ...php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
