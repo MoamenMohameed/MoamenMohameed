@@ -48,8 +48,8 @@ Currently working as a GIS Specialist, handling spatial digitizing, attribute da
 
 ## 📫 Get in Touch
 
-- **Email:** [your email]
-- **LinkedIn:** [your LinkedIn URL]
+- **Email:** [moamenmohamed0040@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/moamen-mohamed-459477230/]
 
 ---
 <div align="center">
