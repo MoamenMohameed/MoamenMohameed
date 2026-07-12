@@ -16,7 +16,7 @@ I build backend systems and tools at the intersection of software engineering an
 <img src="https://skillicons.dev/icons?i=python,fastapi,laravel,cs,dotnet,js,react,postgres,git" />
 </div>
 
-- **Backend:** Python, FastAPI, C# (.NET in progress)
+- **Backend:** Python, FastAPI, Django, PHP, Laravel, C# (.NET in progress)
 - **Frontend:** JavaScript, React, React Native
 - **GIS / Remote Sensing:** QGIS, PyQGIS, ArcGIS, GeoPandas, Shapely, PostGIS, GDAL
 - **Databases:** PostgreSQL/PostGIS, SQL Server
