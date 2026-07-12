@@ -13,13 +13,13 @@ I build backend systems and tools at the intersection of software engineering an
 ## 🔭 What I Work With
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,js,react,postgres,git" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,laravel,cs,dotnet,js,react,postgres,git" />
 </div>
 
 - **Backend:** Python, FastAPI, C# (.NET in progress)
 - **Frontend:** JavaScript, React, React Native
 - **GIS / Remote Sensing:** QGIS, PyQGIS, ArcGIS, GeoPandas, Shapely, PostGIS, GDAL
-- **Databases:** PostgreSQL/PostGIS
+- **Databases:** PostgreSQL/PostGIS, SQL Server
 
 ## 🚀 Featured Projects
 
